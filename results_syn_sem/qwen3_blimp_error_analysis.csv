@@ -1,0 +1,9 @@
+paradigm,field,n_pairs,errors,error_rate
+Negative polarity item licensing,semantics,250,96,0.384
+Tough vs. raising,syntax_semantics,250,71,0.284
+Argument structure,syntax,250,64,0.256
+Wh-island constraints,syntax,250,49,0.196
+Superlative quantifiers,semantics,250,46,0.184
+Subject–verb agreement,morphology,250,28,0.112
+Anaphor gender agreement,morphology,250,5,0.02
+Determiner–noun agreement,morphology,250,3,0.012

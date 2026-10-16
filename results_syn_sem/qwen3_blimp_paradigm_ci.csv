@@ -1,0 +1,9 @@
+config,paradigm,n_pairs,accuracy,ci95_low,ci95_high
+npi_present_1,Negative polarity item licensing,250,0.616,0.556,0.68
+tough_vs_raising_1,Tough vs. raising,250,0.716,0.66,0.772
+drop_argument,Argument structure,250,0.744,0.688,0.8
+wh_island,Wh-island constraints,250,0.804,0.752,0.852
+superlative_quantifiers_1,Superlative quantifiers,250,0.816,0.768,0.864
+regular_plural_subject_verb_agreement_1,Subject–verb agreement,250,0.888,0.852,0.924
+anaphor_gender_agreement,Anaphor gender agreement,250,0.98,0.96,0.996
+determiner_noun_agreement_1,Determiner–noun agreement,250,0.988,0.972,1.0

@@ -1,0 +1,9 @@
+config,paradigm,field,linguistics_term,n_pairs,sum_pairwise_accuracy,sum_mean_margin,mean_token_pairwise_accuracy,mean_token_margin,mean_good_tokens,mean_bad_tokens,simple_LM_method_fraction,lexically_identical_fraction
+regular_plural_subject_verb_agreement_1,Subject–verb agreement,morphology,subject_verb_agreement,250,0.888,3.7295627059936525,0.848,0.6900984840393066,5.872,5.864,1.0,0.0
+determiner_noun_agreement_1,Determiner–noun agreement,morphology,determiner_noun_agreement,250,0.988,5.221847694396972,0.956,0.8424925909042359,6.392,6.4,1.0,1.0
+anaphor_gender_agreement,Anaphor gender agreement,morphology,anaphor_agreement,250,0.98,4.327437744140625,0.98,0.9043047018051148,5.0,5.0,1.0,0.0
+drop_argument,Argument structure,syntax,argument_structure,250,0.744,3.3809724960327148,0.544,0.22839375305175783,4.612,4.976,1.0,0.0
+tough_vs_raising_1,Tough vs. raising,syntax_semantics,control_raising,250,0.716,3.13354695892334,0.764,0.44511618518829343,7.892,7.824,1.0,0.0
+npi_present_1,Negative polarity item licensing,semantics,npi_licensing,250,0.616,1.1138976821899413,0.616,0.17695641899108885,7.156,7.156,1.0,0.0
+superlative_quantifiers_1,Superlative quantifiers,semantics,quantifiers,250,0.816,2.022758331298828,0.816,0.24495006370544434,8.22,8.22,1.0,0.0
+wh_island,Wh-island constraints,syntax,island_effects,250,0.804,2.8558952178955077,0.804,0.3539508590698242,8.336,8.336,1.0,0.0

@@ -1,0 +1,44 @@
+{
+  "model_id": "Qwen/Qwen3-4B-Base",
+  "dataset_id": "nyu-mll/blimp",
+  "paradigms": [
+    [
+      "regular_plural_subject_verb_agreement_1",
+      "Subject\u2013verb agreement"
+    ],
+    [
+      "determiner_noun_agreement_1",
+      "Determiner\u2013noun agreement"
+    ],
+    [
+      "anaphor_gender_agreement",
+      "Anaphor gender agreement"
+    ],
+    [
+      "drop_argument",
+      "Argument structure"
+    ],
+    [
+      "tough_vs_raising_1",
+      "Tough vs. raising"
+    ],
+    [
+      "npi_present_1",
+      "Negative polarity item licensing"
+    ],
+    [
+      "superlative_quantifiers_1",
+      "Superlative quantifiers"
+    ],
+    [
+      "wh_island",
+      "Wh-island constraints"
+    ]
+  ],
+  "pairs_per_paradigm": 250,
+  "max_sequence_tokens": 160,
+  "pair_batch_size": 8,
+  "seed": 42,
+  "transformers_version": "5.16.1",
+  "datasets_version": "4.8.5"
+}

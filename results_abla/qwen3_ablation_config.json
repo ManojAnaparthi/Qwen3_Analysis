@@ -1,0 +1,57 @@
+{
+  "model_id": "Qwen/Qwen3-4B-Base",
+  "quick_run": false,
+  "pos_train_sentences": 1500,
+  "pos_test_sentences": 400,
+  "sentiment_per_class": 150,
+  "pos_word_range": [
+    5,
+    20
+  ],
+  "sentiment_word_range": [
+    20,
+    250
+  ],
+  "ablation_plan": [
+    [
+      "baseline",
+      0
+    ],
+    [
+      "layers",
+      3
+    ],
+    [
+      "layers",
+      9
+    ],
+    [
+      "layers",
+      18
+    ],
+    [
+      "heads",
+      8
+    ],
+    [
+      "heads",
+      16
+    ],
+    [
+      "heads",
+      32
+    ],
+    [
+      "embedding_zero",
+      0
+    ]
+  ],
+  "layer_ablation_strategy": "last_n_layers",
+  "pos_batch_size": 4,
+  "max_sentiment_tokens": 384,
+  "sentiment_batch_reviews": 1,
+  "bootstrap_reps": 300,
+  "seed": 42,
+  "transformers": "4.57.6",
+  "datasets": "4.8.5"
+}

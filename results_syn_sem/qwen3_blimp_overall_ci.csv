@@ -1,0 +1,3 @@
+metric,accuracy,ci95_low,ci95_high,n_pairs
+Summed sentence log-likelihood accuracy (primary),0.819,0.8024875,0.83599997,2000
+Mean token log-likelihood accuracy (sensitivity),0.791,0.7735,0.80799997,2000
